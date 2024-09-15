@@ -12,5 +12,5 @@
 | LightOj    | [sr_iu_2512](https://lightoj.com/user/sr_iu_2512) | 1  | N/A  | N/A |
 | Spoj       | []() | 0 | N/A | N/A |
 | CSES       | [ Mohammad SR](https://cses.fi/user/204273)) | 16 | N/A | N/A |
-| *Total*  |           | *3345*    |                | *438* |
+| *Total*  |           | *1317*    |                | *180* |
 codeforces.com
