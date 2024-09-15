@@ -3,7 +3,7 @@
 | Platform   | Username  | Solve Count | Highest Rating | Contests |
 |------------|-----------|-------------|----------------|----------|
 | Codeforces | [BISMILLAHIRRAHMANIRRAHIM](https://codeforces.com/profile/BISMILLAHIRRAHMANIRRAHIM) | 850 | 1379 | 87 |
-| CodeChef   | [Mohammad_SR](https://www.codechef.com/users/mohammad_sr) | 447 | 1818 | 99 |
+| CodeChef   | [Mohammad_SR](https://www.codechef.com/users/mohammad_sr) | 256 | 1839 | 57 |
 | Atcoder    | [Mohammad_SR_](https://atcoder.jp/users/Mohammad_SR_) | 20 | 143 | 9 |
 | LeetCode   | [Mohammad_SR_](https://leetcode.com/u/Mohammad_SR_/) | 109   | 1566 | 5 |
 | Uva        | []() | N/A | N/A  | N/A |
