@@ -13,4 +13,4 @@
 | Spoj       | []() | 0 | N/A | N/A |
 | CSES       | [ Mohammad SR](https://cses.fi/user/204273)) | 16 | N/A | N/A |
 | *Total*  |           | *1317*    |                | *180* |
-codeforces.com
+
